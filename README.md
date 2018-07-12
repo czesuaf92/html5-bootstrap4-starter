@@ -10,9 +10,10 @@ cd html5-bootstrap4-starter
 npm install
 
 # 4 Get started
-# starts localhost server with browser-sync, watches HTML, Sass, JS with hot reloading
+
+## starts localhost server with browser-sync, watches HTML, Sass, JS with hot reloading
 gulp serve 
-# minify CSS/JS and builds your app into the dist directory, ready for production
+## minify CSS/JS and builds your app into the dist directory, ready for production
 gulp
 ```
 
